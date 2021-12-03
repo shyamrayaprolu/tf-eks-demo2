@@ -1,4 +1,4 @@
-# Overview: This repo is for setting up AWS EKS demo cluster using Terraform AWS EKS Wrapper module. For more information on Terraform AWS EKS Wrapper module please refer [*here*]https://github.com/terraform-aws-modules/terraform-aws-eks
+# Overview: This repo is for setting up AWS EKS demo cluster using Terraform AWS EKS Wrapper module. For more information on Terraform AWS EKS Wrapper module please refer [here](https://github.com/terraform-aws-modules/terraform-aws-eks)
 
 ### !! Note :
 #### 1. In this EKS Setup Control Plane is managed by AWS and Worker Nodes managed by User.
